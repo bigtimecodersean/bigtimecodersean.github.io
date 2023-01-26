@@ -7,7 +7,8 @@ Projects I've done
 
 # Smaller Projects
 
-## Here are a series of brief explainers I made on the Transformer architecture: [Transformers](https://gabby-foxtrot-8e2.notion.site/Transformers-1066353a15494d8f82b677e226e777e0)
+## Transformer Explainer
+Here are a series of brief explainers I made on the Transformer architecture: [Transformers](https://gabby-foxtrot-8e2.notion.site/Transformers-1066353a15494d8f82b677e226e777e0)
 
 # AI
 ## [Project 1:  Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
