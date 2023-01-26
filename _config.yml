@@ -19,8 +19,8 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: 'Home'}
   - {file: "README.md", title: 'Projects'}
-  - {file: "/Sean_McGowan_Resume.pdf", title: 'CV'}
-  - {file: "/Sean_blog.md", title: 'Blog'}
+  - {file: "Sean_McGowan_Resume.pdf", title: 'CV'}
+  - {file: "Sean_blog.md", title: 'Blog'}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:seankellymcgowan@gmail.com"}
