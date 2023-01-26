@@ -37,7 +37,7 @@ This project was part of Zero-to-Mastery's: Deep Learning with Pytorch
 ## [Fine-Tuning Stanford Cars Classifier](https://github.com/bigtimecodersean/Fine_Tuning_Stanford_Cars_Classification)
 We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCars dataset to classify cars. We then deploy our top-performing model as a Gradio app to Hugging Face Spaces.
 
-    Dataset = StanfordCars (https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
+Dataset = StanfordCars (https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
 
 
 # Basic Data Science Projects
@@ -63,11 +63,11 @@ The goal of the campaigns were to get the clients to subscribe to a term deposit
 
 We try a few different classification methods, including:
 
-    Logistic Regression
-    Random Forests
-    K-Nearest Neighbours
-    Support Vector Machines
-    Neural Networks.
+- Logistic Regression
+- Random Forests
+- K-Nearest Neighbours
+- Support Vector Machines
+- Neural Networks
 
 
 
