@@ -12,7 +12,7 @@ Here are a series of brief explainers I made for myself on the Transformer archi
 
 ---------
 
-# AI Projects
+# AI Coding Projects
 ## [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
 This project was inspired by Andrej Karpathy's work at: https://www.youtube.com/watch?v=kCc8FmEb1nY
@@ -39,6 +39,13 @@ We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCar
 
 Dataset = StanfordCars (https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
 
+# AI Research (non-coding) 
+
+## [Numenta Active Dendrite](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_d98a19334c954743adf683cb1df2b919.pdf)
+
+Here is a written companion I wrote to a talk by Numenta's Subutai Ahmad Numenta titled: Active Dendrites Enable Flexible Context Integration 
+
+Active dendrites are a more biologically realistic model of individual neurons, enabling better prediction, more flexible learning, and efficient, sparse representations in Artificial Neural Networks.  
 
 # Basic Data Science Projects
 
