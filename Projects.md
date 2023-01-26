@@ -10,6 +10,8 @@ Projects I've done
 ## [Transformer Explainer](https://gabby-foxtrot-8e2.notion.site/Transformers-1066353a15494d8f82b677e226e777e0)
 Here are a series of brief explainers I made for myself on the Transformer architecture. Many images taken from Jay Alammar's "The Illustrated Transformer"
 
+---------
+
 # AI Projects
 ## [Project 1:  Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
