@@ -17,7 +17,7 @@ Here are a series of brief explainers I made for myself on the Transformer archi
 
 This project was inspired by Andrej Karpathy's work at: https://www.youtube.com/watch?v=kCc8FmEb1nY
 
-We will be building a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
+We built a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
 
 The goal for the project was to:
 - Define a decoder transformer architecture
@@ -26,6 +26,17 @@ The goal for the project was to:
 
 (Due to model complexity, of course, the generated text does not resemble Wikipedia-style English)
 
+# Basic Data Science Projects
 
+## [Predicting Heart Disease](https://github.com/bigtimecodersean/Key_Indicators_of_Heart_Disease)
+
+The aim of this project was to predict a patient's heart disease status (0 or 1), based on a variety of markers (personal and biological)
+
+I used the Kaggle Heart Disease dataset, located: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+
+For our ML models, we will explore:
+- Logistic Regressoin
+- Support Vector Machines
+- Random Forest Classifiers
 
 
