@@ -13,7 +13,7 @@ Here are a series of brief explainers I made for myself on the Transformer archi
 ---------
 
 # AI Projects
-## [Project 1:  Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
+## [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
 This project was inspired by Andrej Karpathy's work at: https://www.youtube.com/watch?v=kCc8FmEb1nY
 
@@ -25,6 +25,12 @@ The goal for the project was to:
 - Generate infinite Wikipedia-like text
 
 (Due to model complexity, of course, the generated text does not resemble Wikipedia-style English)
+
+## [Fine-Tuning Stanford Cars Classifier](https://github.com/bigtimecodersean/Fine_Tuning_Stanford_Cars_Classification)
+We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCars dataset to classify cars. We then deploy our top-performing model as a Gradio app to Hugging Face Spaces.
+
+    Dataset = StanfordCars (https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
+
 
 # Basic Data Science Projects
 
