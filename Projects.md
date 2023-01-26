@@ -26,6 +26,14 @@ The goal for the project was to:
 
 (Due to model complexity, of course, the generated text does not resemble Wikipedia-style English)
 
+## [Vision Transformer-From-Scratch](https://github.com/bigtimecodersean/Vision_Transformer_Replication)
+
+I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929
+
+... and applied it to a classifying food categories 
+
+This project was part of Zero-to-Mastery's: Deep Learning with Pytorch
+
 ## [Fine-Tuning Stanford Cars Classifier](https://github.com/bigtimecodersean/Fine_Tuning_Stanford_Cars_Classification)
 We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCars dataset to classify cars. We then deploy our top-performing model as a Gradio app to Hugging Face Spaces.
 
