@@ -57,6 +57,10 @@ Investigated recently mapped Drosophila fruit-fly connectome to measure the prev
 
 # Basic Data Science Projects
 
+### [African Water Basin Temperatures](https://github.com/bigtimecodersean/African_Water_Basin_Temperatures)
+
+The goal of this project was to plot a high-resolution figure showing the average increaes in air temperature in African Water Basics, from 2000-2014.
+
 ### [Predicting Heart Disease](https://github.com/bigtimecodersean/Key_Indicators_of_Heart_Disease)
 
 The aim of this project was to predict a patient's heart disease status (0 or 1), based on a variety of markers (personal and biological)
