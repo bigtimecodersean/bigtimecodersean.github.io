@@ -7,7 +7,7 @@ Projects I've done
 
 --------
 
-# AI Coding Projects
+# AI (Coding)
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
 This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). 
@@ -28,7 +28,7 @@ Dataset: [StanfordCars](https://pytorch.org/vision/stable/generated/torchvision.
 
 ----------
 
-# AI Research (non-coding) 
+# AI (non-coding) 
 
 ### [Numenta Active Dendrite](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_d98a19334c954743adf683cb1df2b919.pdf)
 
