@@ -15,7 +15,7 @@ Here are a series of brief explainers I made for myself on the Transformer archi
 # AI Coding Projects
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
-This project was inspired by Andrej Karpathy's work at: https://www.youtube.com/watch?v=kCc8FmEb1nY
+This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 We built a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
 
