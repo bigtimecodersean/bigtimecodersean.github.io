@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Modern Yogi Patronage"
 layout: post
 ---
 
