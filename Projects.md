@@ -88,6 +88,13 @@ We try a few different classification methods, including:
 - Support Vector Machines
 - Neural Networks
 
+### [Colorado Climate Change Perspectives](https://github.com/bigtimecodersean/Colorado-Climate-Change-Perspectives)
+
+We'll be looking at the results of a survey of residents in Colorado about their viewpoints on climate change. 
+
+The data can be found on GitHub at: [data]('https://raw.githubusercontent.com/envirodatascience/ENVS-617-Class-Data/main/CO_climate_change_views.csv')
+
+
 -----------
 
 # Miscellaneous Projects
