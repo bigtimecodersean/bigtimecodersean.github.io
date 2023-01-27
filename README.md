@@ -1,7 +1,7 @@
 ---
 
 title: ""
-permalink: "/home/"
+permalink: "/home2/"
 layout: page
 
 ---
