@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Writings"
+permalink: "/writings/"
+
 ---
 
 {% if site.show_excerpts %}
