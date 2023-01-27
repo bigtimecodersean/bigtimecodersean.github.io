@@ -8,9 +8,7 @@ Projects I've done
 # AI Coding Projects
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
-This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-
-We built a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
+This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). We built a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
 
 The goal for the project was to:
 - Define a decoder transformer architecture
@@ -21,11 +19,7 @@ The goal for the project was to:
 
 ### [Vision Transformer-From-Scratch](https://github.com/bigtimecodersean/Vision_Transformer_Replication)
 
-I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929
-
-... and applied it to a classifying food categories 
-
-This project was part of Zero-to-Mastery's: Deep Learning with Pytorch
+I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929 ... and applied it to a classifying food categories. This project was part of Zero-to-Mastery's: Deep Learning with Pytorch
 
 ### [Fine-Tuning Stanford Cars Classifier](https://github.com/bigtimecodersean/Fine_Tuning_Stanford_Cars_Classification)
 We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCars dataset to classify cars. We then deploy our top-performing model as a Gradio app to Hugging Face Spaces.
