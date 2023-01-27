@@ -42,6 +42,10 @@ Investigated recently mapped Drosophila fruit-fly connectome to measure the prev
 
 # Basic Data Science Projects
 
+### [Intro NLP Project: Spooky Author Topic Modeling](https://github.com/bigtimecodersean/Intro_NLP_Author_Topic_Modeling)
+
+A project to introduce myself to NLP: a very basic attempt at topic modelling this [Spooky Author dataset](https://www.kaggle.com/c/spooky-author-identification)
+
 ### [African Water Basin Temperatures](https://github.com/bigtimecodersean/African_Water_Basin_Temperatures)
 
 The goal of this project was to plot a high-resolution figure showing the average increaes in air temperature in African Water Basics, from 2000-2014.
