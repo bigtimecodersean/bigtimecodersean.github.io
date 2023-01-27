@@ -25,21 +25,17 @@ We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCar
 Dataset: [StanfordCars](https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
 
 ----------
-----------
 
 # AI Research (non-coding) 
 
 ### [Numenta Active Dendrite](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_d98a19334c954743adf683cb1df2b919.pdf)
 
-Here is a written companion I wrote to a talk by Numenta's Subutai Ahmad Numenta titled: Active Dendrites Enable Flexible Context Integration 
-
-Active dendrites are a more biologically realistic model of individual neurons, enabling better prediction, more flexible learning, and efficient, sparse representations in Artificial Neural Networks.  
+Here is a written companion I wrote to a talk by Numenta's Subutai Ahmad Numenta titled: Active Dendrites Enable Flexible Context Integration. Active dendrites are a more biologically realistic model of individual neurons, enabling better prediction, more flexible learning, and efficient, sparse representations in Artificial Neural Networks.  
 
 ### [Investigating Motif Significance in the Drosophilidae Drosophila](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_dcc99d36de424a1fbed10f7f4e635463.pdf)
 
 Investigated recently mapped Drosophila fruit-fly connectome to measure the prevalence of complex structural network motifs, compared to C.elegans and simulated rat somatosensory cortex. Found a decrease in basic motifs, such as basic linked chains; an increase in more complex feedback structures (ie. 3-node structures with bidirectional connections) 
 
----------
 ----------
 
 # Basic Data Science Projects
@@ -50,37 +46,16 @@ The goal of this project was to plot a high-resolution figure showing the averag
 
 ### [Predicting Heart Disease](https://github.com/bigtimecodersean/Key_Indicators_of_Heart_Disease)
 
-The aim of this project was to predict a patient's heart disease status (0 or 1), based on a variety of markers (personal and biological)
-
-I used the Kaggle Heart Disease dataset, located: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
-
-For our ML models, we will explore:
-- Logistic Regression
-- Support Vector Machines
-- Random Forest Classifiers
+The aim of this project was to use a variety of ML models to predict a patient's heart disease status (0 or 1), based on a variety of markers (personal and biological), using the Kaggle Heart Disease dataset, located: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
 ### [Predicting Banking Subscription](https://github.com/bigtimecodersean/Banking_Subscription_Prediction)
 
-The aim of this project is to see whether we can predict whether a client subscribed to a term deposit after a direct marking campaign from a Portugese bank.
-
-The data is related with direct marketing campaigns of a Portuguese banking institution, based on phone calls (Moro, Cortez, and Rita 2014).
-
-The goal of the campaigns were to get the clients to subscribe to a term deposit. There are 20 input variables and 1 binary output variable (y) that indicates whether the client subscribed to a term deposit with values ‘yes’,‘no’.
-
-We try a few different classification methods, including:
-
-- Logistic Regression
-- Random Forests
-- K-Nearest Neighbours
-- Support Vector Machines
-- Neural Networks
+The aim of this project was to use a variery of classificatoin methods to predict whether a client subscribed to a term deposit after a direct marking campaign from a Portugese bank.
 
 ### [Colorado Climate Change Perspectives](https://github.com/bigtimecodersean/Colorado-Climate-Change-Perspectives)
 
 We'll be looking at the results of a survey of residents in Colorado about their viewpoints on climate change. 
-
 The data can be found on GitHub at: [data]('https://raw.githubusercontent.com/envirodatascience/ENVS-617-Class-Data/main/CO_climate_change_views.csv')
-
 
 -----------
 
@@ -88,7 +63,7 @@ The data can be found on GitHub at: [data]('https://raw.githubusercontent.com/en
 
 ### [Exlporing the Phenomenology of Haptic Stimulation](https://www.youtube.com/watch?v=ga88RGOzJwk) 
 
-From March - July 2021, I designed and built a multi-sensory stimulation device that uses light, sound, and haptic vibration to induce targeted emotional states, for use in psychedelic therapy clinics. In addition to building the device, I spent time mapping out the phenomenology of haptic vibration.
+Designed and built a multi-sensory stimulation device that uses light, sound, and haptic vibration to induce targeted emotional states, for use in psychedelic therapy clinics. In addition to building the device, I spent time mapping out the phenomenology of haptic vibration.
 
 (For NDA purposes, I cannot publish photos of the finished product)
 
@@ -100,7 +75,7 @@ Two separate presentations to a group of neurotechnology investors and researche
 
 ### [Geothermal Energy Drilling](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_0f790d08b3854e9ba95aa4fb85f51c48.pdf) 
 
-In October 2021, I spent a few weeks mapping out the landscape of Geothermal Energy drilling technology. I focused in particular on Millimeter Wave drilling, of the type proposed by Quaise Energy I also propose the basic components of what a Geothermal PARPA might look like.
+Mapping out the landscape of Geothermal Energy drilling technology. I focused in particular on Millimeter Wave drilling, of the type proposed by Quaise Energy I also propose the basic components of what a Geothermal PARPA might look like.
 
 ---------
 
