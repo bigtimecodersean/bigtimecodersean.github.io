@@ -8,14 +8,12 @@ Projects I've done
 # AI Coding Projects
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
-This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). We built a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
+This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). 
 
 The goal for the project was to:
 - Define a decoder-only transformer architecture
-- Train on the WikiText dataset
+- Train on the WikiText V2 dataset
 - Generate infinite Wikipedia-like text
-
-(Due to model complexity, of course, the generated text does not resemble Wikipedia-style English)
 
 ### [Vision Transformer-From-Scratch](https://github.com/bigtimecodersean/Vision_Transformer_Replication)
 
