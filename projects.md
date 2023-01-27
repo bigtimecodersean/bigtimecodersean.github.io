@@ -11,7 +11,7 @@ Projects I've done
 This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). We built a decoder-only Transformer from scratch, and training it on a corpus of Wikipedia data, to try and generate Wikipedia-style text. We will be training on: Wikitext - V2. Wikitext - V2 is a 2M word subset of the Wikipedia corpus.
 
 The goal for the project was to:
-- Define a decoder transformer architecture
+- Define a decoder-only transformer architecture
 - Train on the WikiText dataset
 - Generate infinite Wikipedia-like text
 
