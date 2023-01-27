@@ -82,6 +82,14 @@ We try a few different classification methods, including:
 
 # Miscellaneous Projects
 
+### [Exlporing the Phenomenology of Haptic Stimulation](https://www.youtube.com/watch?v=ga88RGOzJwk) 
+
+From March - July 2021, I designed and built a multi-sensory stimulation device that uses light, sound, and haptic vibration to induce targeted emotional states, for use in psychedelic therapy clinics. In addition to building the device, I spent time mapping out the phenomenology of haptic vibration.
+
+(For NDA purposes, I cannot publish photos of the finished product)
+
+
+
 ### [Transcranial Ultrasound Stimulation Landscape](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_c793c5047dbe41dd81a33ba53468d0bf.pdf)
 
 Two separate presentations to a group of neurotechnology investors and researchers on the landscape of Focused Transcranial Ultrasound Stimulation (fTUS) for neuromodulation in the treatment of brain disorders and mental health conditions
