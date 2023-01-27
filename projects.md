@@ -5,6 +5,8 @@ layout: page
 ---
 Projects I've done 
 
+--------
+
 # AI Coding Projects
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
