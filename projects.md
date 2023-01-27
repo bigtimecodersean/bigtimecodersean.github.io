@@ -27,6 +27,7 @@ We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCar
 Dataset: [StanfordCars](https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
 
 ----------
+----------
 
 # AI Research (non-coding) 
 
@@ -41,6 +42,7 @@ Active dendrites are a more biologically realistic model of individual neurons, 
 Investigated recently mapped Drosophila fruit-fly connectome to measure the prevalence of complex structural network motifs, compared to C.elegans and simulated rat somatosensory cortex. Found a decrease in basic motifs, such as basic linked chains; an increase in more complex feedback structures (ie. 3-node structures with bidirectional connections) 
 
 ---------
+----------
 
 # Basic Data Science Projects
 
