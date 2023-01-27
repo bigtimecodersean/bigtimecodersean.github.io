@@ -5,13 +5,6 @@ layout: page
 ---
 Projects I've done 
 
-# Smaller Projects
-
-## [Transformer Explainer](https://gabby-foxtrot-8e2.notion.site/Transformers-1066353a15494d8f82b677e226e777e0)
-Here are a series of brief explainers I made for myself on the Transformer architecture. Many images taken from Jay Alammar's "The Illustrated Transformer"
-
----------
-
 # AI Coding Projects
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
@@ -114,3 +107,14 @@ Two separate presentations to a group of neurotechnology investors and researche
 ### [Geothermal Energy Drilling](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_0f790d08b3854e9ba95aa4fb85f51c48.pdf) 
 
 In October 2021, I spent a few weeks mapping out the landscape of Geothermal Energy drilling technology. I focused in particular on Millimeter Wave drilling, of the type proposed by Quaise Energy I also propose the basic components of what a Geothermal PARPA might look like.
+
+---------
+
+# Smaller Projects
+
+## [Transformer Explainer](https://gabby-foxtrot-8e2.notion.site/Transformers-1066353a15494d8f82b677e226e777e0)
+Here are a series of brief explainers I made for myself on the Transformer architecture. Many images taken from Jay Alammar's "The Illustrated Transformer"
+
+
+
+
