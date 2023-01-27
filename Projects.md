@@ -39,6 +39,8 @@ We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCar
 
 Dataset = [StanfordCars](https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
 
+----------
+
 # AI Research (non-coding) 
 
 ### [Numenta Active Dendrite](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_d98a19334c954743adf683cb1df2b919.pdf)
@@ -50,6 +52,8 @@ Active dendrites are a more biologically realistic model of individual neurons, 
 ### [Investigating Motif Significance in the Drosophilidae Drosophila](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_dcc99d36de424a1fbed10f7f4e635463.pdf)
 
 Investigated recently mapped Drosophila fruit-fly connectome to measure the prevalence of complex structural network motifs, compared to C.elegans and simulated rat somatosensory cortex. Found a decrease in basic motifs, such as basic linked chains; an increase in more complex feedback structures (ie. 3-node structures with bidirectional connections) 
+
+---------
 
 # Basic Data Science Projects
 
@@ -79,6 +83,8 @@ We try a few different classification methods, including:
 - K-Nearest Neighbours
 - Support Vector Machines
 - Neural Networks
+
+-----------
 
 # Miscellaneous Projects
 
