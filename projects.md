@@ -74,7 +74,7 @@ The data can be found on GitHub at: [Colorado Climate Data]('https://raw.githubu
 
 ### [Exploring the Phenomenology of Haptic Stimulation](https://www.youtube.com/watch?v=ga88RGOzJwk) 
 
-Designed and built a multi-sensory stimulation device that uses light, sound, and haptic vibration to induce targeted emotional states, for use in psychedelic therapy clinics. In addition to building the device, I spent time mapping out the phenomenology of haptic vibration.
+Designed and built a multi-sensory stimulation device that uses light, sound, and haptic vibration to induce targeted emotional states. In addition to building the device, I spent time mapping out the phenomenology of haptic vibration.
 
 (For NDA purposes, I cannot publish photos of the finished product)
 
