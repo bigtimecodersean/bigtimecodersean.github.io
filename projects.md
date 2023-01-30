@@ -48,7 +48,7 @@ A project to introduce myself to NLP: a very basic attempt at topic modelling th
 
 ### [African Water Basin Temperatures](https://github.com/bigtimecodersean/African_Water_Basin_Temperatures)
 
-The goal of this project was to plot a high-resolution figure showing the average increaes in air temperature in African Water Basics, from 2000-2014.
+The goal of this project was to plot a high-resolution figure showing the average increase in air temperature in African Water Basics, from 2000-2014.
 
 ### [Predicting Heart Disease](https://github.com/bigtimecodersean/Key_Indicators_of_Heart_Disease)
 
@@ -61,7 +61,7 @@ The aim of this project was to use a variery of classificatoin methods to predic
 ### [Colorado Climate Change Perspectives](https://github.com/bigtimecodersean/Colorado-Climate-Change-Perspectives)
 
 We'll be looking at the results of a survey of residents in Colorado about their viewpoints on climate change. 
-The data can be found on GitHub at: [data]('https://raw.githubusercontent.com/envirodatascience/ENVS-617-Class-Data/main/CO_climate_change_views.csv')
+The data can be found on GitHub at: [Colorado Climate Data]('https://raw.githubusercontent.com/envirodatascience/ENVS-617-Class-Data/main/CO_climate_change_views.csv')
 
 -----------
 
