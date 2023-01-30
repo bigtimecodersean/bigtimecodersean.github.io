@@ -52,7 +52,7 @@ The goal of this project was to plot a high-resolution figure showing the averag
 
 ### [Predicting Heart Disease](https://github.com/bigtimecodersean/Key_Indicators_of_Heart_Disease)
 
-The aim of this project was to use a variety of ML models to predict a patient's heart disease status (0 or 1), based on a variety of markers (personal and biological), using the Kaggle Heart Disease dataset, located: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+The aim of this project was to use a variety of ML models to predict a patient's heart disease status (0 or 1), based on a variety of markers (personal and biological), using the Kaggle [Heart Disease dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
 ### [Predicting Banking Subscription](https://github.com/bigtimecodersean/Banking_Subscription_Prediction)
 
@@ -67,7 +67,7 @@ The data can be found on GitHub at: [data]('https://raw.githubusercontent.com/en
 
 # Miscellaneous Projects
 
-### [Exlporing the Phenomenology of Haptic Stimulation](https://www.youtube.com/watch?v=ga88RGOzJwk) 
+### [Exploring the Phenomenology of Haptic Stimulation](https://www.youtube.com/watch?v=ga88RGOzJwk) 
 
 Designed and built a multi-sensory stimulation device that uses light, sound, and haptic vibration to induce targeted emotional states, for use in psychedelic therapy clinics. In addition to building the device, I spent time mapping out the phenomenology of haptic vibration.
 
