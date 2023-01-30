@@ -21,8 +21,12 @@ The goal for the project was to:
 
 I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929 ... and applied it to a classifying food categories. This project was part of Zero-to-Mastery's: Deep Learning with Pytorch
 
+### [Approaching Abstraction & Reasoning Corpus](https://github.com/bigtimecodersean/Approaching_ARC/blob/main/ARC_Hard_Coded_Sols.ipynb)
+
+A few hard-coded solutions to tasks from Francois Chollet's Abstraction and Reasoning Corpus training set, as proposed in: [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547). Very preliminary first steps in developing a Domain-Specific Language, ANN-guided perceptual systems, and neural-guided -search to build neurosymbolic models to perform on the task. On pause due to funding loss. 
+
 ### [Fine-Tuning Stanford Cars Classifier](https://github.com/bigtimecodersean/Fine_Tuning_Stanford_Cars_Classification)
-We are fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCars dataset to classify cars. We then deploy our top-performing model as a Gradio app to Hugging Face Spaces.
+Fine-tuning a few vision models (effnetb0 & GoogleNet) on the StanfordCars dataset to classify cars. We then deploy our top-performing model as a Gradio app to Hugging Face Spaces.
 
 Dataset: [StanfordCars](https://pytorch.org/vision/stable/generated/torchvision.datasets.StanfordCars.html#torchvision.datasets.StanfordCars)
 
