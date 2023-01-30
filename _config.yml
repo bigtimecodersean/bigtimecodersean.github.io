@@ -1,6 +1,6 @@
 title: "Sean"
 author: "Sean McGowan"
-description: "I prostrate to those who have abandoned all views"
+# description: "I prostrate to those who have abandoned all views"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
