@@ -35,6 +35,10 @@ Dataset: [StanfordCars](https://pytorch.org/vision/stable/generated/torchvision.
 
 # AI (non-coding) 
 
+### [ARC Project Proposal](https://docs.google.com/presentation/d/e/2PACX-1vQKjp7qxEyEPtcXp_PfDWNd3k7BnpISSyDA-DcY-CRSkvCWXVOtR27OIqLkreRNsCXxCk8h9LpPAWIk/pub?start=false&loop=false&delayms=3000) 
+
+An informal presentation I gave to Dartmouth CS Profs on Francois Chollet's Abstraction and Reasoning (ARC) as an important benchmark for few-shot abstract rule learning. I included a few Neurosymbolic approaches that I found most promising.  
+
 ### [Numenta Active Dendrite](https://5744f6c2-4ed8-4ec0-a6a4-51909cc8f220.filesusr.com/ugd/e97160_d98a19334c954743adf683cb1df2b919.pdf)
 
 Here is a written companion I wrote to a talk by Numenta's Subutai Ahmad Numenta titled: Active Dendrites Enable Flexible Context Integration. Active dendrites are a more biologically realistic model of individual neurons, enabling better prediction, more flexible learning, and efficient, sparse representations in Artificial Neural Networks.  
