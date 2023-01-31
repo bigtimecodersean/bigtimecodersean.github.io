@@ -7,7 +7,7 @@ A brief list of the most influential sci-tech papers
 
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/pdf/2006.08381.pdf)
 
--[The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/pdf/2212.13345.pdf)
+- [The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/pdf/2212.13345.pdf)
 
 - [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
 
