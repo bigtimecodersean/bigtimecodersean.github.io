@@ -104,6 +104,15 @@ Technical explainers I have made on different subjects.
 ## [Transformer Explainer](https://gabby-foxtrot-8e2.notion.site/Transformers-1066353a15494d8f82b677e226e777e0)
 Here are a series of brief explainers I made for myself on the Transformer architecture. Many images taken from Jay Alammar's "The Illustrated Transformer"
 
+## (In progress) Diffusion Models
+
+## (In progress) Neural Cellular Automata
+
+## (In progress) Hinton's Forward-Forward Algorithm
+
+
+
+
 
 
 
