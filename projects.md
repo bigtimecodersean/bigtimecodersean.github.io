@@ -49,7 +49,11 @@ Investigated recently mapped Drosophila fruit-fly connectome to measure the prev
 
 ----------
 
-# Basic Data Science Projects
+# Data Science Projects
+
+### [Glacier Spatial Fluctuations](https://github.com/bigtimecodersean/Glacier_Spatial_Fluctuations)
+
+The following project was during Yale's School of the Environment Data Science course: Yale 617b. I look at spatial fluctuations of the Aitkenhead glacier in Antarctica.
 
 ### [Intro NLP Project: Spooky Author Topic Modeling](https://github.com/bigtimecodersean/Intro_NLP_Author_Topic_Modeling)
 
