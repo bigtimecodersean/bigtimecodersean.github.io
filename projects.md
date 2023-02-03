@@ -49,15 +49,21 @@ Investigated recently mapped Drosophila fruit-fly connectome to measure the prev
 
 ----------
 
+# NLP Projects
+
+[Tweet Sentiment Analysis](https://github.com/bigtimecodersean/Tweet_Sentiment_Analysis/blob/main/README.md)
+
+Training word embeddings to classify tweet sentiment, using TensorFlow.
+
+### [Intro NLP Project: Spooky Author Topic Modeling](https://github.com/bigtimecodersean/Intro_NLP_Author_Topic_Modeling)
+
+A project to introduce myself to NLP: a very basic attempt at topic modelling this [Spooky Author dataset](https://www.kaggle.com/c/spooky-author-identification)
+
 # Data Science Projects
 
 ### [Glacier Spatial Fluctuations](https://github.com/bigtimecodersean/Glacier_Spatial_Fluctuations)
 
 The following project was during Yale's School of the Environment Data Science course: Yale 617b. I look at spatial fluctuations of the Aitkenhead glacier in Antarctica.
-
-### [Intro NLP Project: Spooky Author Topic Modeling](https://github.com/bigtimecodersean/Intro_NLP_Author_Topic_Modeling)
-
-A project to introduce myself to NLP: a very basic attempt at topic modelling this [Spooky Author dataset](https://www.kaggle.com/c/spooky-author-identification)
 
 ### [African Water Basin Temperatures](https://github.com/bigtimecodersean/African_Water_Basin_Temperatures)
 
