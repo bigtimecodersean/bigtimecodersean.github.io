@@ -49,7 +49,7 @@ Investigated recently mapped Drosophila fruit-fly connectome to measure the prev
 
 ----------
 
-# NLP Projects
+# NLP  
 
 [Tweet Sentiment Analysis](https://github.com/bigtimecodersean/Tweet_Sentiment_Analysis/blob/main/README.md)
 
@@ -59,7 +59,7 @@ Training word embeddings to classify tweet sentiment, using TensorFlow.
 
 A project to introduce myself to NLP: a very basic attempt at topic modelling this [Spooky Author dataset](https://www.kaggle.com/c/spooky-author-identification)
 
-# Data Science Projects
+# Data Science 
 
 ### [Glacier Spatial Fluctuations](https://github.com/bigtimecodersean/Glacier_Spatial_Fluctuations)
 
@@ -84,7 +84,7 @@ The data can be found on GitHub at: [Colorado Climate Data]('https://raw.githubu
 
 -----------
 
-# Miscellaneous Projects
+# Miscellaneous  
 
 ### [Exploring the Phenomenology of Haptic Stimulation](https://www.youtube.com/watch?v=ga88RGOzJwk) 
 
