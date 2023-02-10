@@ -51,7 +51,7 @@ Investigated recently mapped Drosophila fruit-fly connectome to measure the prev
 
 # NLP  
 
-[Tweet Sentiment Analysis](https://github.com/bigtimecodersean/Tweet_Sentiment_Analysis/blob/main/README.md)
+### [Tweet Sentiment Analysis](https://github.com/bigtimecodersean/Tweet_Sentiment_Analysis/blob/main/README.md)
 
 Training word embeddings to classify tweet sentiment, using TensorFlow.
 
