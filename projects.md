@@ -114,7 +114,7 @@ Here are a series of brief explainers I made for myself on the Transformer archi
 
 ## (In progress) Neural Cellular Automata
 
-## (In progress) Hinton's Forward-Forward Algorithm
+
 
 
 
