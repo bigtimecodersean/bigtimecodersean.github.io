@@ -9,7 +9,7 @@ Projects I've done
 
 # AI (Coding)
 
-### [Stanford CS221 Final Project: Steelmanning GPT-4 on the Abstraction and Reasoning Corpus (ARC)](https://github.com/bigtimecodersean/Steelmanning_GPT4_On_ARC)
+### [Stanford CS221 Final Project: Steelmanning GPT-4 on the Abstraction and Reasoning Corpus (ARC)](https://docs.google.com/document/d/1mjhRUaQEgASCvDwc87QgZPvGdzJVYl6EMrW6Z_IAwH0/edit)
 
 We tested GPT-4’s performance, with various prompting methods, on representative tasks from the Abstraction and Reasoning Corpus. We taxonimized categories of transformations and object characteristics that GPT succeeded/failed to identity and generate. 
 
