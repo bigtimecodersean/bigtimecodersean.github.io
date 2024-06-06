@@ -9,10 +9,6 @@ Projects I've done
 
 # AI (Coding)
 
-### [Stanford CS221 Final Project: Steelmanning GPT-4 on the Abstraction and Reasoning Corpus (ARC)](https://docs.google.com/document/d/1mjhRUaQEgASCvDwc87QgZPvGdzJVYl6EMrW6Z_IAwH0/edit)
-
-We tested GPT-4’s performance, with various prompting methods, on representative tasks from the Abstraction and Reasoning Corpus. We taxonimized categories of transformations and object characteristics that GPT succeeded/failed to identity and generate. 
-
 ### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
 
 This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). 
