@@ -14,18 +14,12 @@ A 1.5B-parameter Vision-Language-Action model (SigLIP + Qwen2-1.5B with LoRA + f
 ### [RL for Simulated Humanoids](https://github.com/bigtimecodersean/RL-for-simulated-robotics) 
 RL for simulated locomotion, scaling from MuJoCo Reacher on a laptop to Humanoid on an A100 with 4,096 parallel Isaac Gym envs. Quantifies the Bitter Lesson (PPO reward 500 → 6,300+ from compute alone, 9,500+ with bigger nets and LSTM) and documents reward-hacking failures like a HalfCheetah running on its back.
 
-### [Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
-
-This project was inspired by Andrej Karpathy's work at: [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY). 
-
-The goal for the project was to:
-- Define a decoder-only transformer architecture
-- Train on the WikiText V2 dataset
-- Generate infinite Wikipedia-like text
+### [Decoder-only Transformer-From-Scratch ](https://github.com/bigtimecodersean/Transformer_From_Scratch)
+A from-scratch implementation of a decoder-only transformer (multi-head self-attention, positional embeddings, residual stream, layer norm) trained on WikiText-2 to generate Wikipedia-style text
 
 ### [Vision Transformer-From-Scratch](https://github.com/bigtimecodersean/Vision_Transformer_Replication)
 
-I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929 ... and applied it to a classifying food categories. This project was part of Zero-to-Mastery's: Deep Learning with Pytorch
+I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929 ... and applied it to a classifying food categories.  
 
 ----------
 
