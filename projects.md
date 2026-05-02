@@ -8,7 +8,7 @@ Solo projects I've done
 --------
 
 # Research / Engineering
-### https://github.com/bigtimecodersean/libero-vla
+### [SigLIP + Qwen2 + Flow Matching on LIBERO] https://github.com/bigtimecodersean/libero-vla
 A 1.5B-parameter Vision-Language-Action model (SigLIP + Qwen2-1.5B with LoRA + flow-matching action head) trained from scratch on the LIBERO manipulation benchmark, deliberately skipping the Open X-Embodiment pretraining that most published VLAs rely on. Reaches 70.5% across the four base suites in ~11 hours on a single H100, and isolates a specific failure mode: the long-horizon suite is bimodal — single-object multi-step tasks succeed at 70–80% while tasks requiring referent tracking across two distinct objects
 
 ### [RL for Simulated Humanoids](https://github.com/bigtimecodersean/RL-for-simulated-robotics) 
