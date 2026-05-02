@@ -19,7 +19,7 @@ A from-scratch implementation of a decoder-only transformer (multi-head self-att
 
 ### [Vision Transformer-From-Scratch](https://github.com/bigtimecodersean/Vision_Transformer_Replication)
 
-I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929 ... and applied it to a classifying food categories.  
+I replicated a Vision Transformer, as developed in: https://arxiv.org/abs/2010.11929  
 
 ----------
 
